@@ -1,0 +1,9 @@
+{
+  "name": "kuranmushaf-ai-assistant",
+  "version": "1.0.0",
+  "description": "Kuran AI Asistanı için Netlify Fonksiyonları",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
